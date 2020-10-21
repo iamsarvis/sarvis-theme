@@ -1,0 +1,13 @@
+body{
+    direction: rtl !important;
+    text-align: right !important;
+}
+article .category, article .date, article .author{
+    float: right;
+}
+.nav-next{
+    float: left !important;
+}
+.nav-previous{
+    float: right !important;
+}
