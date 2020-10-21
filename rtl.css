@@ -2,7 +2,7 @@ body{
     direction: rtl !important;
     text-align: right !important;
 }
-article .category, article .date, article .author{
+.info > .category, .info > .date, .info > .author{
     float: right;
 }
 .nav-next{
